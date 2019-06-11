@@ -30,7 +30,7 @@ public class MainActivity1 extends AppCompatActivity {
                 i.putExtra("ename1",pname);
                 i.putExtra("ename2",ppass);
                 startActivity(i);
-                Toast.makeText(MainActivity1.this, "", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity1.this, "Successful", Toast.LENGTH_SHORT).show();
 
 
 
